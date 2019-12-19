@@ -1,0 +1,43 @@
+html {
+    margin: 0 auto;
+    padding: 0;
+    font-size: 16px;
+    width: 100%;
+}
+/*index page*/
+
+/*nav bar*/
+
+}
+ul {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+li {
+    list-style-type: none;
+    width: 150px;
+    font-size: 32px;
+}
+.banner-img {
+    width: 100%;
+    height: auto;
+}
+/*Schematic drawing of park*/
+.banner {
+    width: 100%;
+    background: rgb(227, 206, 237)
+}
+.container {
+    position: relative;
+    width: 100%;
+    background: cornflowerblue;
+}
+.main-img {
+    display: block;
+    width: auto;
+    height: 100%;
+    margin: auto; 
+    padding: 48px 0;   
+
+}

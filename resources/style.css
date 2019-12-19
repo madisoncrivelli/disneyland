@@ -1,3 +1,18 @@
+@font-face {
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Gravitas One', cursive;
+font-family: 'Eater', cursive;
+font-family: 'Fontdiner Swanky', cursive;
+font-family: 'Princess Sofia', cursive;
+font-family: 'Rakkas', cursive;
+font-family: 'Bangers', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Fascinate Inline', cursive;
+font-family: 'Sancreek', cursive;
+font-family: 'ZCOOL KuaiLe', cursive;
+
+
+}
 html {
     margin: 0 auto;
     padding: 0;
@@ -40,4 +55,58 @@ li {
     margin: auto; 
     padding: 48px 0;   
 
+}
+/*walt page*/
+.title {
+    font-size: 48px;
+    text-align: center;
+}
+#walt-title {
+    font-family: 'Gravitas One';
+    letter-spacing: 1vh;
+}
+.walt-img {
+    padding: 32px
+}
+.walt-text {
+    width: 40%;
+    height: auto;
+}
+/*rides */
+#rides {
+    font-family: "Fascinate Inline";
+}
+.ride-box {
+    width: 700px;
+    height: auto;
+    background: red;
+   
+}
+.ride-img {
+    width: inherit;
+    height: 500px;
+    
+}
+.ride-name {
+    text-align: center;
+}
+#matterhorn {
+    font-family: "Bangers";
+    letter-spacing: 1vh;
+}
+#small-world {
+    font-family: "Rakkas";
+    letter-spacing: 1vh;
+}
+#monorail {
+    font-family: "Fascinate Inline";
+    letter-spacing: 0.5vh;
+}
+#pirates {
+    font-family: "Sancreek";
+    letter-spacing: 0.6vh;
+}
+#river-ride {
+    font-family: "ZCOOL KuaiLe";
+    letter-spacing: 0.4vh;
 }
